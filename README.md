@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Nayeong<span/>Kwon%20%20&height=200&fontSize=100"/>
 </p>
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
