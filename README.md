@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=NayeongKwon&fontSize=70&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100"/>
+</p>
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
