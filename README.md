@@ -30,12 +30,12 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="center">👊What I did👊</h3>
 
 <div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
+  <p align="center">
+    <h4>2020.9 ~ 2020.12</h4> 오픈소스 소프트웨어 프로젝트 코로나 챗봇
+  </p>
   
 </div>
   
@@ -56,17 +56,4 @@
 
 ### Hi there 👋
 
-<!--
-**i-zro/i-zro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
