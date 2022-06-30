@@ -62,15 +62,17 @@
 
 <h3 align="center"> 🤔 My github contains 🤔 </h3>
 
-<div style="width:50%;float:left">
+<div align="center" style="display:flex">
+
+<div style="width:50%">
 
 ![Nayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-zro)
 
 </div>
 
-<div style="width:50%float:right">
+<div style="width:50%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-zro)
 </div>
 
-
+</div>
