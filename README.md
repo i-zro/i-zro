@@ -62,13 +62,13 @@
 
 <h3 align="center"> 🤔 My github contains 🤔 </h3>
 
-<div style="float:left">
+<div style="width:50%;float:left">
 
 ![Nayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-zro)
 
 </div>
 
-<div style="float:right">
+<div style="width:50%float:right">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-zro)
 </div>
