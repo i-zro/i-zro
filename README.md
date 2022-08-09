@@ -49,7 +49,7 @@
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2021.7 ~ 2022.2</h4> 
-    [Farm Project] 키넥트 카메라와 IMU 센서를 활용한 동작 인식
+    키넥트 카메라와 IMU 센서를 활용한 동작 인식 프로젝트
   </p>
 </div>
 
@@ -101,5 +101,6 @@
 </body>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NTA0ODUwLC0xOTI0NDU5NTIwXX0=
+eyJoaXN0b3J5IjpbLTExNDA3NjExNzIsLTE5MjQ0NTk1MjBdfQ
+==
 -->
