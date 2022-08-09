@@ -48,6 +48,13 @@
 
 <div align="center" style="text-align:center">
   <p align="center">
+    <h4>2021.7 ~ 2022.2</h4> 
+    Farm Project : 키넥트 카메라와 IMU 센서를 활용한 동작 인식
+  </p>
+</div>
+
+<div align="center" style="text-align:center">
+  <p align="center">
     <h4>2020.9 ~ 2020.12</h4> 
     <a href="https://github.com/CSID-DGU/2020-2-OSSP-CP-CICE-8">오픈소스 소프트웨어 프로젝트 코로나 챗봇</a>
   </p>
@@ -94,5 +101,6 @@
 </body>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NzA0NTg0LC0xOTI0NDU5NTIwXX0=
+eyJoaXN0b3J5IjpbLTEzMjM0NDMwNDQsLTE5MjQ0NTk1MjBdfQ
+==
 -->
