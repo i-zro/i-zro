@@ -90,9 +90,10 @@
 
 
 <style type='text/css'>
-* { font-family: "Nanum Gothic"  !important; }
+body { font-family: "Nanum Gothic"  !important; }
 </style>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjMwMTgwMywtMTkyNDQ1OTUyMF19
+eyJoaXN0b3J5IjpbLTE0NTk4MjIzMDEsLTE5MjQ0NTk1MjBdfQ
+==
 -->
