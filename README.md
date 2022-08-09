@@ -85,6 +85,12 @@
 </div>
 
 </div>
+
+
+<style type='text/css'>
+  [class*="box"] { display: flex; width: 20%; height: 50px; }
+</style>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ0NTk1MjBdfQ==
+eyJoaXN0b3J5IjpbMTAyNDM5MTM1NCwtMTkyNDQ1OTUyMF19
 -->
