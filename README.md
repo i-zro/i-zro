@@ -56,6 +56,13 @@
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2021.3 ~ 2021.6</h4> 
+    크롤링과 NLP를 이용한 채팅형 일기 감정 분석 및 답장 앱 (캡스톤 디자인 프로젝트)
+  </p>
+</div>
+
+<div align="center" style="text-align:center">
+  <p align="center">
+    <h4>2021.3 ~ 2021.6</h4> 
     시각장애인을 위한 Yolo v5를 이용한 의류 분류기 (캡스톤 디자인 프로젝트)
   </p>
 </div>
@@ -108,5 +115,5 @@
 </body>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTYwNzUzOCwtMTkyNDQ1OTUyMF19
+eyJoaXN0b3J5IjpbMTI4NDQ3NjEzLC0xOTI0NDU5NTIwXX0=
 -->
