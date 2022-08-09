@@ -39,7 +39,7 @@
 
 <div align="center" style="text-align:center">
   <p align="center">
-    <h4>2021.7.1 ~ 2021.8.31 / 2022.2.7 ~ 2022.7.29</h4> 
+    <h4>2021.7.1 ~ 2021.8.31 <br/>/ 2022.2.7 ~ 2022.7.29</h4> 
     이트너스 R&D PL팀 솔루션 개발
   </p>
   
@@ -86,5 +86,5 @@
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY0NTcxMzddfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ0NTk1MjBdfQ==
 -->
