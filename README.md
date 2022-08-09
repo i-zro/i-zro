@@ -56,7 +56,7 @@
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2021.3 ~ 2021.6</h4> 
-    시각장애인을 위한 Yolo v5를 이용한 의류 분류기
+    시각장애인을 위한 Yolo v5를 이용한 의류 분류기 (캡스톤 디자인 프로젝트)
   </p>
 </div>
 
@@ -108,5 +108,5 @@
 </body>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NDI3NDc5LC0xOTI0NDU5NTIwXX0=
+eyJoaXN0b3J5IjpbLTkxMTYwNzUzOCwtMTkyNDQ1OTUyMF19
 -->
