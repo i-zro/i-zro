@@ -39,6 +39,14 @@
 
 <div align="center" style="text-align:center">
   <p align="center">
+    <h4>2021.7 ~ 2021.8 / 2022.</h4> 
+    오픈소스 소프트웨어 프로젝트 코로나 챗봇
+  </p>
+  
+</div>
+
+<div align="center" style="text-align:center">
+  <p align="center">
     <h4>2020.9 ~ 2020.12</h4> 
     <a href="https://github.com/CSID-DGU/2020-2-OSSP-CP-CICE-8">오픈소스 소프트웨어 프로젝트 코로나 챗봇</a>
   </p>
@@ -77,3 +85,6 @@
 </div>
 
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUwODkxNTQ4NF19
+-->
