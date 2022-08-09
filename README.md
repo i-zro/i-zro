@@ -88,9 +88,12 @@
 
 
 <style type='text/css'>
-  [class*="box"] { display: flex; width: 20%; height: 50px; }
+body {  
+font-family:'궁서체';  
+font-size:10pt;  
+}
 </style>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDM5MTM1NCwtMTkyNDQ1OTUyMF19
+eyJoaXN0b3J5IjpbLTM5MzAxMTIwMCwtMTkyNDQ1OTUyMF19
 -->
