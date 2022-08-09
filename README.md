@@ -77,7 +77,7 @@
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2018.3 ~ 2022.8</h4> 
-    Dongguk University, Information & Communication Engineering / Data Science Software
+    [B.E] Dongguk University, Information & Communication Engineering / Data Science Software
   </p>
 </div>
   
@@ -115,5 +115,5 @@
 </body>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDQ3NjEzLC0xOTI0NDU5NTIwXX0=
+eyJoaXN0b3J5IjpbMTI4MDIxNTMyLC0xOTI0NDU5NTIwXX0=
 -->
