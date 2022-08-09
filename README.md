@@ -39,8 +39,8 @@
 
 <div align="center" style="text-align:center">
   <p align="center">
-    <h4>2021.7 ~ 2021.8 / 2022.</h4> 
-    오픈소스 소프트웨어 프로젝트 코로나 챗봇
+    <h4>2021.7.1 ~ 2021.8.31 / 2022.2.7 ~ 2022.7.29</h4> 
+    이트너스
   </p>
   
 </div>
@@ -86,5 +86,5 @@
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODkxNTQ4NF19
+eyJoaXN0b3J5IjpbLTE3MDkyOTI3NDVdfQ==
 -->
