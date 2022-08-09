@@ -51,7 +51,13 @@
     <h4>2020.9 ~ 2020.12</h4> 
     <a href="https://github.com/CSID-DGU/2020-2-OSSP-CP-CICE-8">오픈소스 소프트웨어 프로젝트 코로나 챗봇</a>
   </p>
-  
+</div>
+
+<div align="center" style="text-align:center">
+  <p align="center">
+    <h4>2018.3 ~ 2022.8</h4> 
+    Dongguk University, Major in Information & Communication Engineering
+  </p>
 </div>
   
 <br>
@@ -88,6 +94,6 @@
 </body>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE4NjY3ODksLTE5MjQ0NTk1MjBdfQ
+eyJoaXN0b3J5IjpbLTE2MDc4MTU3MTIsLTE5MjQ0NTk1MjBdfQ
 ==
 -->
