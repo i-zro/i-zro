@@ -1,3 +1,4 @@
+<body>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Nayeong<span/>Kwon%20%20&height=200&fontSize=100"/>
 </p>
@@ -83,17 +84,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-zro)
 </div>
-
 </div>
+</body>
+
 
 
 <style type='text/css'>
-body {  
-font-family:'궁서체';  
-font-size:10pt;  
-}
+* { font-family: "Nanum Gothic"  !important; }
 </style>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzAxMTIwMCwtMTkyNDQ1OTUyMF19
+eyJoaXN0b3J5IjpbMjA5MjMwMTgwMywtMTkyNDQ1OTUyMF19
 -->
