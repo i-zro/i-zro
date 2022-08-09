@@ -89,11 +89,11 @@
 
 
 
-<style type='text/css'>
-body { font-family: "Nanum Gothic"  !important; }
-</style>
-
+(setq markdown-xhtml-header-content
+  "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk4MjIzMDEsLTE5MjQ0NTk1MjBdfQ
-==
+eyJoaXN0b3J5IjpbMTQ1MTM2MjM1OSwtMTkyNDQ1OTUyMF19
 -->
