@@ -87,13 +87,7 @@
 </div>
 </body>
 
-
-
-(setq markdown-xhtml-header-content
-  "<style type='text/css'>
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-</style>")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTM2MjM1OSwtMTkyNDQ1OTUyMF19
+eyJoaXN0b3J5IjpbLTEwNzM4NjgzNzcsLTE5MjQ0NTk1MjBdfQ
+==
 -->
