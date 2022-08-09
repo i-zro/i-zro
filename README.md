@@ -56,7 +56,8 @@
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2018.3 ~ 2022.8</h4> 
-    Dongguk University, Major in Information & Communication Engineering
+    Dongguk University, Information & Communication Engineering
+    Data Science Software
   </p>
 </div>
   
@@ -94,6 +95,5 @@
 </body>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc4MTU3MTIsLTE5MjQ0NTk1MjBdfQ
-==
+eyJoaXN0b3J5IjpbLTMyNjI5NjI3LC0xOTI0NDU5NTIwXX0=
 -->
