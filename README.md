@@ -40,8 +40,16 @@
 
 <div align="center" style="text-align:center">
   <p align="center">
+    <h4>2022.8.16 ~ 2022. 9.8 <br/>/ 2022.2.7 ~ 2022.7.29</h4> 
+    Intern | LG U+ Architecture Team IT Cloud Engineer
+  </p>
+  
+</div>
+
+<div align="center" style="text-align:center">
+  <p align="center">
     <h4>2021.7.1 ~ 2021.8.31 <br/>/ 2022.2.7 ~ 2022.7.29</h4> 
-    Intern | 이트너스 R&D PL팀 솔루션 개발
+    Intern(Pro) | Etners R&D Platform Leading Team Solution Developer
   </p>
   
 </div>
@@ -115,5 +123,6 @@
 </body>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDIxNTMyLC0xOTI0NDU5NTIwXX0=
+eyJoaXN0b3J5IjpbMjk2MDM0MDc0LDEyODAyMTUzMiwtMTkyND
+Q1OTUyMF19
 -->
