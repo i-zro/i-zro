@@ -49,7 +49,7 @@
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2021.7.1 ~ 2021.8.31 <br/>/ 2022.2.7 ~ 2022.7.29</h4> 
-    Intern(Pro) | Etners R&D Platform Leading Team Solution Developer
+    Intern(Pro) | Etners R&D Platform Leading Team Solution Full Stack Developer
   </p>
   
 </div>
