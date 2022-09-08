@@ -72,21 +72,21 @@
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2021.3 ~ 2021.6</h4> 
-    크롤링과 NLP를 이용한 채팅형 일기 감정 분석 및 답장 앱 (캡스톤 디자인 프로젝트)
+    크롤링과 NLP를 이용한 채팅형 일기 감정 분석 및 답장 앱 (Data Science Capstone Design Project)
   </p>
 </div>
 
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2021.3 ~ 2021.6</h4> 
-    시각장애인을 위한 Yolo v5를 이용한 의류 분류기 (캡스톤 디자인 프로젝트)
+    Yolo v5 Clothes Detector for Blindness (ICE Capstone Design Project)
   </p>
 </div>
 
 <div align="center" style="text-align:center">
   <p align="center">
     <h4>2020.9 ~ 2020.12</h4> 
-    <a href="https://github.com/CSID-DGU/2020-2-OSSP-CP-CICE-8">오픈소스 소프트웨어 프로젝트 코로나 챗봇</a>
+    <a href="https://github.com/CSID-DGU/2020-2-OSSP-CP-CICE-8">Corona Chatbot (Open Source Software Project)</a>
   </p>
 </div>
 
