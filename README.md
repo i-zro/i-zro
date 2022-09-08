@@ -40,6 +40,14 @@
 
 <div align="center" style="text-align:center">
   <p align="center">
+    <h4>2022.9.19 ~ <br/></h4> 
+    Staff | LG U+ Architecture Team IT Cloud Engineer
+  </p>
+  
+</div>
+
+<div align="center" style="text-align:center">
+  <p align="center">
     <h4>2022.8.16 ~ 2022. 9.8 <br/></h4> 
     Intern | LG U+ Architecture Team IT Cloud Engineer
   </p>
