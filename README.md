@@ -105,7 +105,7 @@
 <h3>2021.7.1 ~ 2021.8.31 / 2022.2.7 ~ 2022.7.29</h3> 
 
 <details>
-<summary> IPP 인턴 / 프로 | 이트너스 기업부설연구소 | PL팀 | IT 솔루션 풀스택 개발자 </summary>
+<summary> IPP 인턴 / 프로 | 이트너스 기업부설연구소 (판교) | PL팀 | IT 솔루션 풀스택 개발자 </summary>
 <div markdown="1">
 
 내용적기
@@ -116,7 +116,7 @@
 <h3>2022.8.16 ~ 2022.9.8</h3> 
 
 <details>
-<summary> 인턴 | LG 유플러스 | 아키텍처팀 | IT Cloud Engineer </summary>
+<summary> 인턴 | LG 유플러스 (상암) | 아키텍처팀 | IT Cloud Engineer </summary>
 <div markdown="1">
 
 내용적기
@@ -127,7 +127,7 @@
 <h3>2022.9.19 ~ </h3> 
 
 <details>
-<summary> 사원 | LG 유플러스 | 아키텍처팀 | IT Cloud Engineer </summary>
+<summary> 사원 | LG 유플러스 (상암) | 아키텍처팀 | IT Cloud Engineer </summary>
 <div markdown="1">
 
 내용적기
