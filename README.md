@@ -1,6 +1,8 @@
 <div>
 안녕하세요,
+    <br/>
 3수의 집념과 지구력으로 문제를 해결해나가는 엔지니어 <span style="background: linear-gradient(to top, #FFE400 50%, transparent 50%)">권나영</span> 입니다.
+    <br />
 끊임없이 다양한 분야들을 배워가며 더 좋은 문제해결로 나아갈 수 있도록 노력하겠습니다.
 </div>
 
@@ -92,8 +94,6 @@
 ### 연락처
 
 ### SNS
-
-
 
 
 
