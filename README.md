@@ -1,136 +1,94 @@
-<body>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Nayeong<span/>Kwon%20%20&height=200&fontSize=100"/>
-</p>
+안녕하세요,
+3수의 집념과 지구력으로 문제를 해결해나가는 엔지니어 <span style="background: linear-gradient(to top, #FFE400 50%, transparent 50%)">권나영</span> 입니다.
+끊임없이 다양한 분야들을 배워가며 더 좋은 문제해결로 나아갈 수 있도록 노력하겠습니다.
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+### 전공
+<h4>2018.3 ~ 2022.8</h4> 
+<details>
+<summary>동국대학교(서울), [공학사] 컴퓨터정보통신공학부 정보통신공학전공</summary>
+<div markdown="1">
+    
+    작성중
 
-<p align="center"> Techs that I've used at least once </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-</p>
-
-<p align="center"> Techs that I'm confident at</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-<br>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <br>
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/oracle-F80000?flat-square&logo=oracle&logoColor=white">&nbsp
-      <br>
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-</p>
-
-<br>
-
-<h3 align="center">👊What I did👊</h3>
-
-<div align="center" style="text-align:center">
-  <p align="center">
-    <h4>2022.9.19 ~ <br/></h4> 
-    Staff | LG U+ Architecture Team IT Cloud Engineer
-  </p>
-  
-</div>
-
-<div align="center" style="text-align:center">
-  <p align="center">
-    <h4>2022.8.16 ~ 2022. 9.8 <br/></h4> 
-    Intern | LG U+ Architecture Team IT Cloud Engineer
-  </p>
-  
-</div>
-
-<div align="center" style="text-align:center">
-  <p align="center">
-    <h4>2021.7.1 ~ 2021.8.31 <br/>/ 2022.2.7 ~ 2022.7.29</h4> 
-    Intern(Pro) | Etners R&D Platform Leading Team Solution Full Stack Developer
-  </p>
-  
-</div>
-
-<div align="center" style="text-align:center">
-  <p align="center">
-    <h4>2021.7 ~ 2022.2</h4> 
-    키넥트 카메라와 IMU 센서를 활용한 동작 인식 프로젝트
-  </p>
-</div>
-
-<div align="center" style="text-align:center">
-  <p align="center">
-    <h4>2021.3 ~ 2021.6</h4> 
-    크롤링과 NLP를 이용한 채팅형 일기 감정 분석 및 답장 앱 (Data Science Capstone Design Project)
-  </p>
-</div>
-
-<div align="center" style="text-align:center">
-  <p align="center">
-    <h4>2021.3 ~ 2021.6</h4> 
-    Yolo v5 Clothes Detector for Blindness (ICE Capstone Design Project)
-  </p>
-</div>
-
-<div align="center" style="text-align:center">
-  <p align="center">
-    <h4>2020.9 ~ 2020.12</h4> 
-    <a href="https://github.com/CSID-DGU/2020-2-OSSP-CP-CICE-8">Corona Chatbot (Open Source Software Project)</a>
-  </p>
-</div>
-
-<div align="center" style="text-align:center">
-  <p align="center">
-    <h4>2018.3 ~ 2022.8</h4> 
-    [B.E] Dongguk University, Information & Communication Engineering / Data Science Software
-  </p>
-</div>
-  
-<br>
-
-
-<h3 align="center"> 🧸 Me 🧸 </h3>
-<p align="center">
-  <a href="https://naa0.tistory.com//"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://naa0.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/naa0._.k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/naa0._.k/"/></a>&nbsp
-  <a href="mailto:nyk3127@dgu.ac.kr@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nyk3127@dgu.ac.kr"/></a>
-</p>
-<br>
-
-<h3 align="center"> 😘 HITS 😘 </h3>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/i-zro&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
-
-<h3 align="center"> 🤔 My github contains 🤔 </h3>
-
-<div align="center" style="display:flex">
-
-<div style="width:50%">
-
-![Nayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-zro)
+| 기술 | 수업명 | 학점 | 강의 개요 | 비고 |
+| -------- | -------- | -------- | -------- |-------- |
+|| 데이터통신     | A+     | 컴퓨터 네트워크 개요, 물리 계층, 데이터 링크 계층, 근거리 통신망 등 네트워크의 기반이 되는 내용     ||
+|| 창의적 공학 설계     | A+     | 아이디어 도출 기법, MBO 작성과 기능사양서 작성,      ||
+|| 자료구조와 실습     | A0     | 리스트, 스택, 큐, 링크드리스트, 트리 및 그래프 학습 이후 C언어 구현  ||
+|| 소프트웨어 공학 및 설계    | B+    | MVC 아키텍쳐, 웹앱 구조, HTML, javascript, python, flask, TDD, 디자인패턴, UML    ||
+|| 정보통신수학 및 실습    | B+    | IOT 데이터 분석, 신호 처리, 이미지 프로세싱, Wired와 Wireless 통신 이론, 필터 디자인, ML, Python/Tensorflow/Keras 모델 빌드, 주파수 변환, continuous와 discrete 신호 차이   ||
 
 </div>
+</details>
 
-<div style="width:50%">
+<details>
+<summary>동국대학교(서울), [데이터사이언스소프트웨어학사] 데이터사이언스소프트웨어전공 </summary>
+<div markdown="1">
+    
+    작성중
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-zro)
+| 기술 | 수업명 | 학점 | 강의 개요 |비고|
+| -------- | -------- | -------- | -------- |-------- |
+|| 데이터 분석 및 시각화     | A0    | 컴퓨터 네트워크 개요, 물리 계층, 데이터 링크 계층, 근거리 통신망 등 네트워크의 기반이 되는 내용     ||
+|| 컴퓨터 시스템     | A0     | 아이디어 도출 기법, MBO 작성과 기능사양서 작성,      ||
+|| 컴퓨터 시스템     | A0     | 리스트, 스택, 큐, 링크드리스트, 트리 및 그래프 학습 이후 C언어 구현  ||
+|| 소프트웨어 공학 및 설계    | B+    | MVC 아키텍쳐, 웹앱 구조, HTML, javascript, python, flask, TDD, 디자인패턴, UML    ||
+|| 정보통신수학 및 실습    | B+    | IOT 데이터 분석, 신호 처리, 이미지 프로세싱, Wired와 Wireless 통신 이론, 필터 디자인, ML, Python/Tensorflow/Keras 모델 빌드, 주파수 변환, continuous와 discrete 신호 차이   ||
+
+
 </div>
-</div>
-</body>
+</details>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MDM0MDc0LDEyODAyMTUzMiwtMTkyND
-Q1OTUyMF19
--->
+### 교내활동
+<h4>2020.8 ~ 2022.8</h4>
+
+학생회장 | 데이터사이언스 소프트웨어 학과 
+
+<h4>2021.9 ~ 2021.12</h4>
+
+조교 | 데이터사이언스 소프트웨어 캡스톤디자인
+
+
+### 대외활동
+
+### 경력
+
+<h4>2021.7.1 ~ 2021.8.31 / 2022.2.7 ~ 2022.7.29</h4> 
+
+<details>
+<summary> 인턴 / 프로 | PL팀 | IT 솔루션 풀스택 개발자 </summary>
+<div markdown="1">
+
+내용적기
+    
+</div>
+</details>
+
+<h4>2022.8.16 ~ 2022.9.8</h4> 
+
+<details>
+<summary> 인턴 | 아키텍처팀 | IT Cloud Engineer </summary>
+<div markdown="1">
+
+내용적기
+    
+</div>
+</details>
+
+<h4>2022.9.19 ~ </h4> 
+
+<details>
+<summary> 사원 | 아키텍처팀 | IT Cloud Engineer </summary>
+<div markdown="1">
+
+내용적기
+    
+</div>
+</details>
+
+### 연락처
+
+### SNS
+
+
+
