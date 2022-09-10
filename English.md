@@ -1,9 +1,10 @@
-> 안녕하세요,
+> Hello, World!
 >     <br/>
-> 3수의 집념과 지구력으로 문제를 해결해나가는 엔지니어 **권나영** 입니다.
+> I even took the CSAT three times, which shows that I'm full of tenacity and endurance.
+>     <br/>
+> Using these tendencies, I'm an Engineer who solves all the problems encountered.
 >     <br />
-> 끊임없이 다양한 기술들과 기법들을 배워가며 
-> 단순히 문제를 해결하는 것보다 **더 올바른** 문제해결로 나아갈 수 있도록 노력하겠습니다.
+>     I will keep learning a variety of technologies and techniques, and try to move on to **more correct** solution than just solving problems.
 
 <br/>
 
