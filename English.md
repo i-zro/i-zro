@@ -2,7 +2,7 @@
 >     <br/>
 > I even took the CSAT three times, which shows that I'm full of tenacity and endurance.
 >     <br/>
-> Using these tendencies, I'm an Engineer who solves all the problems encountered.
+> Using these tendencies, I'm an Engineer who can solve all the problems encountered.
 >     <br />
 >     I will keep learning a variety of technologies and techniques, and try to move on to **more correct** solution than just solving problems.
 
