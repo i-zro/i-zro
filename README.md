@@ -117,7 +117,7 @@
 <h3>2022.8.16 ~ 2022.9.8</h3> 
 
 <details>
-<summary> 인턴 | LG 유플러스 (상암) | 아키텍처팀 | IT Cloud Engineer </summary>
+<summary> 인턴 | LG 유플러스 (상암) | 아키텍처담당 | IT Cloud Engineer </summary>
 <div markdown="1">
 
 내용적기
@@ -128,7 +128,7 @@
 <h3>2022.9.19 ~ </h3> 
 
 <details>
-<summary> 사원 | LG 유플러스 (상암) | 아키텍처팀 | IT Cloud Engineer </summary>
+<summary> 사원 | LG 유플러스 (상암) | 아키텍처담당 | IT클라우드플랫폼팀 | IT Cloud Engineer </summary>
 <div markdown="1">
 
 내용적기
