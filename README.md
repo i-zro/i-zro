@@ -167,9 +167,9 @@ TOEIC | 905점
 
 
 
-## ✅ 학습
+<!-- ## ✅ 학습
 
 <h3>리눅스</h3>
 
 - 221202 | 인프런 | 리눅스 입문 - 개념으로 탄탄히!!
-  - [수료증](certificate-of-completion/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%9E%85%EB%AC%B8%20-%20%EA%B0%9C%EB%85%90%EC%9C%BC%EB%A1%9C%20%ED%83%84%ED%83%84%ED%9E%88!!.pdf)
+  - [수료증](certificate-of-completion/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%9E%85%EB%AC%B8%20-%20%EA%B0%9C%EB%85%90%EC%9C%BC%EB%A1%9C%20%ED%83%84%ED%83%84%ED%9E%88!!.pdf) -->
