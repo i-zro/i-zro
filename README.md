@@ -165,6 +165,11 @@ TOEIC | 905점
 
 - [자격증](certificate/정처기-자격증.pdf)
 
+<h3>2022.12.15 ~ 2025.12.15</h3>
+
+aws | aws solutions architect associate
+
+- [자격증](https://www.credly.com/badges/dd636848-79a7-4126-869c-c948262c5d3e/public_url)
 
 
 <!-- ## ✅ 학습
