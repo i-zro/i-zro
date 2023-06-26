@@ -144,4 +144,4 @@ aws | aws solutions architect associate
 
 ## ✅ 취미
 
-- [네이버 익스퍼트](https://m.expert.naver.com/expert/profile/home?storeId=10003)
+- [네이버 익스퍼트](https://m.expert.naver.com/expert/profile/home?storeId=100037149)
